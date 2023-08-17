@@ -3,6 +3,11 @@
 3. notas3
 4. nota4
 5. nota5
+6. nota6
+7. nota7
+8. nota8
+9. nota9
+10. nota10
 
 Actualizamos este archivo desde GitHub
 
