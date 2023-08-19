@@ -13,7 +13,7 @@ Actualizamos este archivo desde GitHub
 
 ##vamos a probar el fast-forward only
 
-nueva
+nueva modificaion en GitHub desde VSCode
 
 
 
